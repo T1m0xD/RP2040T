@@ -1,0 +1,19 @@
+Removed Member From Class: ClassName=RP2040T Member=
+Change Component Designator: OldDesignator= NewDesignator=IC?
+Added Component: Designator=J?(CON_12551AF06_SMT_28P)
+Add component (AddParameter): Name = "CPN"; Value = "12551AF06"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LIB_STATE"; Value = "NEW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SCH_PACKAGE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SCH_RATING"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SCH_TOLERANCE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SCH_VALUE"; Value = "USB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SUBTYPE"; Value = "FEM-1R"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetIC?_4 Pin=IC?-4
+Added Pin To Net: NetName=NetIC?_4 Pin=J?-21
+Added Net: Name=NetIC?_4
+Added Pin To Net: NetName=NetIC?_13 Pin=IC?-13
+Added Pin To Net: NetName=NetIC?_13 Pin=J?-12
+Added Net: Name=NetIC?_13
+Added Member To Class: ClassName=RP2040T Member=Component IC? RP2040
+Added Member To Class: ClassName=RP2040T Member=Component J? CON_FEM-1R_28P_EU
+Added Room: Name=RP2040T
